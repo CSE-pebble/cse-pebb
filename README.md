@@ -1,1 +1,1 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcse-pebb&count_bg=%23FFDCDC&title_bg=%23DFDFDF&icon=&icon_color=%23E7E7E7&title=TODAY+%2F+TOTAL&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcse-pebb&count_bg=%23FFDBDB&title_bg=%23EEEEEA&icon=github.svg&icon_color=%23B2B2B2&title=TODAY+%2F+TOTAL&edge_flat=false)](https://hits.seeyoufarm.com)
